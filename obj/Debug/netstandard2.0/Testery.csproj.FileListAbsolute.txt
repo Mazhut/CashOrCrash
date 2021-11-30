@@ -1,0 +1,15 @@
+/Users/alexeymazhut/Projects/Testery/Testery/bin/Debug/netstandard2.0/Testery.deps.json
+/Users/alexeymazhut/Projects/Testery/Testery/bin/Debug/netstandard2.0/Testery.dll
+/Users/alexeymazhut/Projects/Testery/Testery/bin/Debug/netstandard2.0/ref/Testery.dll
+/Users/alexeymazhut/Projects/Testery/Testery/bin/Debug/netstandard2.0/Testery.pdb
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.csproj.AssemblyReference.cache
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.AssemblyInfoInputs.cache
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.AssemblyInfo.cs
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.csproj.CoreCompileInputs.cache
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.dll
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/ref/Testery.dll
+/Users/alexeymazhut/Projects/Testery/Testery/obj/Debug/netstandard2.0/Testery.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh5Jt5N1UL/osja4llmR1U1bXMPWS9MMicP2WpHm3qMskUdGn+gaPSUEHf9Sz8on+qsL4a1ckOwvBpGfw+jzMQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexeymazhut/Projects/Testery/Testery/Testery.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexeymazhut/.nuget/packages/com.airbnb.xamarin.forms.lottie/4.0.11/com.airbnb.xamarin.forms.lottie.4.0.11.nupkg.sha512",
+    "/Users/alexeymazhut/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/alexeymazhut/.nuget/packages/xamarin.communitytoolkit/1.2.0/xamarin.communitytoolkit.1.2.0.nupkg.sha512",
+    "/Users/alexeymazhut/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/alexeymazhut/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
